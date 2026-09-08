@@ -34,6 +34,11 @@
 
 // }
 
+// code likho overloading ka
+// overriding is to redefine a method of parent class inside its child class 
+/*
+WAP to inherit an area method of shape class into shape circle and rectangle display the area also for both the shapes . 
+ */
 
 
 
