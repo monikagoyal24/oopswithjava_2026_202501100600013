@@ -1,3 +1,4 @@
+// 8th sept 2026 
 // public class Polymorphism {
 //     //polymorphism allows a method to behave differently.
 //     // polymorphism (many forms)
@@ -38,6 +39,15 @@
 // overriding is to redefine a method of parent class inside its child class 
 /*
 WAP to inherit an area method of shape class into shape circle and rectangle display the area also for both the shapes . 
+ */
+
+
+//code overriding wala
+
+/*ABSTRACTION 
+abstraction is the concept to hide implementation .
+it is implemented by abstract class and interfaces 
+{} -> definition , ise hide krne ke liye class ko banana hoga abstract 
  */
 
 
